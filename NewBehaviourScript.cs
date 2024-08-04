@@ -17,6 +17,7 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log("Welcome to my game");
         // Initialization code, if any, goes here
     }
 
